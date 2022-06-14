@@ -1,0 +1,19 @@
+.d1:hover{
+    background-image: url(../img/p1.jpg);
+    background-size: cover;
+}
+
+.im{
+    width: 300px;
+    margin: 20px;
+
+}
+.im:hover{
+    transform: scale(1.2);
+}
+.cont{
+    width: 80%;
+    margin: auto;
+    clear: both;
+    margin-top: 50px;
+}
